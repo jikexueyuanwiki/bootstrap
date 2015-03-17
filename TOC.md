@@ -52,7 +52,7 @@
  - [概览 - Overview](javascript/overview.md)
  - [过渡效果 - Transitions](javascript/transitions.md)
  - [模态框 - Modal](javascript/modal.md)
- - [下拉菜单 - Dropdown](javascript/dropdown.md)
+ - [下拉菜单 - Dropdowns](javascript/dropdowns.md)
  - [滚动监听 - Scrollspy](javascript/scrollspy.md)
  - [标签页 - Tab](javascript/tab.md)
  - [工具提示 - Tooltip](javascript/tooltip.md)
