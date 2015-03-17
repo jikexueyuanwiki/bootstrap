@@ -21,7 +21,7 @@
  - [表格 - Tables](css/tables.md)
  - [表单 - Forms](css/forms.md)
  - [按钮 - Buttons](css/buttons.md)
- - [图片 - Images](css/images.md)
+ - [图片 - Images](css/Images.md)
  - [辅助类 - Helper classes](css/helper-classes.md)
  - [响应式工具 - Responsive utilities](css/responsive-utilities.md)
  - [使用 Less - Using Less](css/using-less.md)
