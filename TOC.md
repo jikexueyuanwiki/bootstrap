@@ -1,4 +1,4 @@
-- [起步－Getting started]
+- 起步－Getting started
  - [下载 - Download](getting-started/download.md)
  - [包含的内容 - What included](getting-started/what-included.md)
  - [编译 CSS 和 JavaScript 文件 - Compiling CSS and JavaScript](getting-started/compiling-css-and-javaScript.md)
