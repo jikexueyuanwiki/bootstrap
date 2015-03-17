@@ -1,7 +1,7 @@
 - 起步－Getting started
  - [下载 - Download](getting-started/download.md)
  - [包含的内容 - What included](getting-started/what-included.md)
- - [编译 CSS 和 JavaScript 文件 - Compiling CSS and JavaScript](getting-started/compiling-css-and-javaScript.md)
+ - [编译 CSS 和 JavaScript 文件 - Compiling CSS and JavaScript](getting-started/compiling-css-and-javascript.md)
  - [基本模板 - Basic template](getting-started/basic-template.md)
  - [实例精选 - Examples](getting-started/examples.md)
  - [工具 - Tools](getting-started/tools.md)
