@@ -7,7 +7,7 @@
  - [工具 - Tools](getting-started/tools.md)
  - [社区 - Community](getting-started/community.md)
  - [禁止响应式布局 - Disabling responsiveness](getting-started/disabling-responsiveness.md)
- - [从 2.x 版本升级到 3.0 版本 - Migrating from 2.x to 3.0](getting-started/migrating-from-2.x-to-3.0.md)
+ - [从 2.x 版本升级到 3.0 版本 - Migrating from v2.x to v3.x](getting-started/migrating-from-v2.x-to-v3.x.md)
  - [对浏览器和设备的支持情况 - Browser and device support](getting-started/browser-and-device-support.md)
  - [对第三方组件的支持 - Third party support](getting-started/third-party-support.md)
  - [可访问性 - Accessibility](getting-started/accessibility.md)
