@@ -48,7 +48,7 @@
  - [面板 - Panels](components/panels.md)
  - [具有响应式特性的嵌入内容 - Responsive embed](components/responsive-embed.md)
  - [Well - Wells](components/wells.md)
-- JavaScript插件－JavaScript
+- JavaScript
  - [概览 - Overview](javascript/overview.md)
  - [过渡效果 - Transitions](javascript/transitions.md)
  - [模态框 - Modal](javascript/modal.md)
